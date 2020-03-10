@@ -1,5 +1,2 @@
-# Trabajos
-2ª EVALUACIÓN
- [portfolio](https://denyskovalov.github.io/porfolio_Kovalov/)
- 
- 
+# 1img
+Html: img, png, gif, swp y jpg
