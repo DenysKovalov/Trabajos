@@ -11,6 +11,7 @@
  [escaleras](https://denyskovalov.github.io/escaleras/)
  [portfolio](https://denyskovalov.github.io/porfolio_Kovalov/)
  [lapiz](https://denyskovalov.github.io/Lapiz/)
+ [animal](https://denyskovalov.github.io/Animal/)
  
  
  
